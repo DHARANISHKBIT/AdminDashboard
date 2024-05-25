@@ -1,0 +1,87 @@
+#sidebar{
+    background-color: black;
+    width: 300px;
+    color: aliceblue;
+    height: 850px;
+    float: left;
+    margin-top: -50px;
+}
+.sidebar-title{
+    padding: 20px 50px; 
+}
+.sidebar-list{
+    padding: 60px;
+    padding-top: 80px;  
+}
+.sidebar-list-item{
+    margin-top: 40px;
+}
+.boxs{
+    display: flex;
+}
+.box1{display: flex;
+
+    background-color: rgb(127, 135, 141);
+    margin-top: 50px;
+    width: 640px;
+    height: 300px;
+    margin-left: 50px;
+    
+}
+.boxs1{
+    display: flex;
+}
+.box2{
+    display: flex;
+    background-color: rgb(131, 138, 145);
+    width: 640px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.bag1{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 260px;
+    width: 250px;
+}
+.ar{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 20px;
+    display: block;
+    margin-top: 50px;
+}
+.se{
+    color: rgb(20, 10, 10);
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -20px;
+    margin-left: 20px;
+    display: block;
+}
+.sp{
+    color: rgb(18, 117, 23);
+    font-size: 15px;
+    font-weight: 600;
+  
+    margin-left: 20px;
+    display: block;
+}
+.pr{
+    color: rgb(20, 10, 10);
+    font-size: 30px;
+    margin-top: -5px;
+    font-weight: 400;
+    margin-left: 20px;
+    display: block; 
+}
+.but{
+    width: 100px;
+    height: 40px;
+     border-radius: 20px;
+     background-color: yellow;
+     margin-left: 20px;
+     margin-top: -10px;
+}

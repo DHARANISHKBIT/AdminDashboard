@@ -1,0 +1,45 @@
+.cate{
+        display: flex;
+}
+.cat1{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: white;
+    font-weight: 700;
+    height: 350px;
+    width: 400px;
+    background-color: rgb(107, 124, 139);
+}
+.ayyo{
+    display: flex;
+}
+.im1{
+    margin-top: -40px;
+}
+.LA{
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.spl{
+    display: flex;
+    gap: 80px;
+}
+.im1{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.bu{
+    width: 100px;
+    height: 35px;
+    background-color: green;
+    border-radius: 20px;
+    color: white;
+    font-weight: 300;
+   
+}
+.cats{
+    margin-left: 30px;
+}
